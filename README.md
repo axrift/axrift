@@ -3,7 +3,7 @@
 Web engineering and digital product development studio building custom websites, web applications, and digital platforms.
 
 - **Website:** [https://axrift.com](https://axrift.com)
-- **Email:** hello@axrift.com
+- **Email:** info@axrift.com
 
 ## Core Capabilities
 - Custom Website Development
